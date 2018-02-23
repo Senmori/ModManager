@@ -1,0 +1,6 @@
+name: ModManager
+version: ${project.version}
+main: net.senmori.modmanager.ModManager
+prefix: MM
+authors: [Senmori]
+description: A plugin that allows you to manage users with mods installed.
